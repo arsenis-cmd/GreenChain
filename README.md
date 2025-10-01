@@ -9,7 +9,7 @@ A decentralized recycling incentive platform that rewards users with blockchain 
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 ### For Users
 - **Scan & Earn** - QR code scanning at recycling centers with instant token rewards
@@ -36,7 +36,7 @@ A decentralized recycling incentive platform that rewards users with blockchain 
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────┐
@@ -67,7 +67,7 @@ A decentralized recycling incentive platform that rewards users with blockchain 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Smart Contract
 - **Solidity 0.8.19** - Smart contract language
@@ -95,7 +95,7 @@ A decentralized recycling incentive platform that rewards users with blockchain 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
@@ -167,7 +167,7 @@ npm start
 
 ---
 
-## 📊 Smart Contract Functions
+##  Smart Contract Functions
 
 ### User Functions
 ```solidity
@@ -262,7 +262,7 @@ Every 100g: +10%    // Linear scaling
 
 ---
 
-## 📱 User Flow
+##  User Flow
 
 ### Recycling Process
 1. User collects recyclable materials
@@ -284,7 +284,7 @@ Every 100g: +10%    // Linear scaling
 
 ---
 
-## 🎮 Gamification Features
+##  Gamification Features
 
 ### Levels
 - Level 1: 0-500 tokens earned
@@ -294,12 +294,12 @@ Every 100g: +10%    // Linear scaling
 - Level 5: 7,500+ tokens (Eco Champion)
 
 ### Badges
-- 🌱 **First Steps** - First recycling
-- 🔥 **On Fire** - 7-day streak
-- ⚡ **Lightning** - 30-day streak
-- 🌟 **Eco Star** - 100 recyclings
-- 🏆 **Champion** - Top 10 leaderboard
-- 💚 **Generous** - Donated 500+ tokens to NGOs
+-  **First Steps** - First recycling
+-  **On Fire** - 7-day streak
+-  **Lightning** - 30-day streak
+-  **Eco Star** - 100 recyclings
+-  **Champion** - Top 10 leaderboard
+-  **Generous** - Donated 500+ tokens to NGOs
 
 ### Streaks
 - Track consecutive days with at least one recycling
@@ -308,7 +308,7 @@ Every 100g: +10%    // Linear scaling
 
 ---
 
-## 🔐 Security Features
+## Security Features
 
 ### Smart Contract Security
 - **OpenZeppelin Libraries** - Battle-tested security
@@ -330,7 +330,7 @@ Every 100g: +10%    // Linear scaling
 
 ---
 
-## 📈 Environmental Impact
+##  Environmental Impact
 
 ### Carbon Savings Calculator
 ```javascript
@@ -352,7 +352,7 @@ Electronic: 5.0 kg CO2
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Smart contract tests
@@ -372,7 +372,7 @@ npm run test:integration
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 ### Smart Contract Deployment
 
@@ -396,7 +396,7 @@ npx hardhat run scripts/deploy.ts --network polygon_mainnet
 
 ---
 
-## 🎯 Roadmap
+##  Roadmap
 
 ### Phase 1: MVP ✅
 - [x] Smart contract development
@@ -425,7 +425,7 @@ npx hardhat run scripts/deploy.ts --network polygon_mainnet
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 Through building GreenChain, I gained expertise in:
 - **Solidity Development** - Writing secure, efficient smart contracts
@@ -437,19 +437,19 @@ Through building GreenChain, I gained expertise in:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! Please read CONTRIBUTING.md for guidelines.
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-## 👤 Author
+## Author
 
 **Your Name**
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
@@ -458,4 +458,4 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-**Built with ❤️ to incentivize recycling and fight climate change through blockchain technology**
+**Built with love to incentivize recycling and fight climate change through blockchain technology**
